@@ -4,4 +4,5 @@ matplotlib
 folium
 streamlit_folium
 geopy
-camera_input_live
+# camera_input_live
+streamlit-camera-input-live
